@@ -1,1 +1,1 @@
-# car-rental-database-system
+# Project on Car Rental Database Management System
